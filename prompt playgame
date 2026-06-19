@@ -1,0 +1,16 @@
+**Prompt Engineering Learning Steps (line by line):**
+
+1. **Introduction** → AI, LLM, Prompt Engineering kya hai samjho
+2. **LLMs & How They Work** → Tokens, Context Window, Model basics
+3. **What is a Prompt** → Prompt structure samjho
+4. **Common Terminology** → Hallucination, Agents, RAG, Fine-tuning
+5. **LLM Configuration** → Temperature, Max Tokens, Top-P, Top-K
+6. **Output Control** → Output ko control karna seekho
+7. **Prompting Techniques** → Zero-Shot → Few-Shot → System → Contextual → CoT → ReAct → ToT
+8. **Structured Outputs** → JSON, Markdown, XML output
+9. **Prompt Best Practices** → Clear instructions, testing, iteration
+10. **Automatic Prompt Engineering** → AI se prompts generate karna
+11. **AI Red Teaming** → Weakness aur security samjho
+12. **Improving Reliability** → Evaluation, Debiasing, Calibration
+13. **Build Projects** → Chatbot / AI App / Automation
+14. **Next Step** → AI Engineer Roadmap → AI Agents Roadmap
